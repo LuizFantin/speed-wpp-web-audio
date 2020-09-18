@@ -1,6 +1,7 @@
 {
     "manifest_version" : 2,
     "name" : "SpeedAudio",
+    "description" : "Chrome extension that speeds up the WhatsApp Web audios to make your life faster.",
     "version" : "0.1",
     "content_scripts": [
         {
